@@ -84,7 +84,7 @@ class _AuthScreenState extends State<AuthScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Welcome to our App"),
+        title: Text("Welcome to the App"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
